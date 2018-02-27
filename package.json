@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daonomic/truffle-trezor-provider.git"
+    "url": "git+https://github.com/daonomic/trezor-web3-provider.git"
   },
   "keywords": [
     "ethereum",
@@ -19,9 +19,9 @@
   "author": "0v1se <dev@0v1se.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/daonomic/truffle-trezor-provider/issues"
+    "url": "https://github.com/daonomic/trezor-web3-provider/issues"
   },
-  "homepage": "https://github.com/daonomic/truffle-trezor-provider#readme",
+  "homepage": "https://github.com/daonomic/trezor-web3-provider#readme",
   "dependencies": {
     "@daonomic/trezor-wallet-provider": "^0.0.1",
     "web3": "^0.20.5"
