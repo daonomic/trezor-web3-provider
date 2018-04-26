@@ -1,6 +1,6 @@
 {
   "name": "@daonomic/trezor-web3-provider",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Trezor-enabled provider for Provider Engine",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/daonomic/trezor-web3-provider#readme",
   "dependencies": {
-    "@daonomic/trezor-wallet-provider": "^0.0.4",
+    "@daonomic/trezor-wallet-provider": "^0.0.7",
     "web3": "^0.20.5"
   }
 }
